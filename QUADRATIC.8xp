@@ -1,8 +1,8 @@
 :ClrHome
 :Disp "AX²+BX+C=0"
-:Input "A:", A
-:Input "B:", B
-:Input "C:", C
+:Input "A:",A
+:Input "B:",B
+:Input "C:",C
 :B⋅-1→D
 :B²→E
 :-4⋅A⋅C→F
